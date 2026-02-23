@@ -60,4 +60,8 @@ The refined dataset was imported into Power BI to create a professional medical 
 You can see the visualiation in the project or in the images that are attached in this repository, due to technical problems i can't upload the original files on PowerBi.
 
 ![Dashboard](Immagine 2026-02-23 134003.jpg)
+
+
+
 ![Dashboard](Immagine 2026-02-23 134114.jpg)
+
