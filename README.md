@@ -57,4 +57,4 @@ The refined dataset was imported into Power BI to create a professional medical 
 * `/powerbi_report`: The `.pbix` file with the final interactive dashboard.
 * `/data`: The cleaned CSV file used for the final analysis.
 
----
+![Visualization](dashboard/Immagine 2026-02-23 134114.jpeg)
