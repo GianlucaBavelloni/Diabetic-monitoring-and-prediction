@@ -63,5 +63,5 @@ You can see the visualiation in the project or in the images that are attached i
 
 
 
-![Dashboard](Immagine 2026-02-23 134114.jpg)
+![Dashboard](Immagine 2026-02-23 134114.png)
 
